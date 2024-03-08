@@ -1,0 +1,7 @@
+
+|
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "student".(›¼ØØ8ÛœæÛ1
+S
+java:S1128"6Remove this unused import 'jakarta.persistence.Query'.(³¸³æ8áœæÛ1
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8áœæÛ1

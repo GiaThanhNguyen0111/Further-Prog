@@ -1,0 +1,17 @@
+
+g
+java:S1192"JDefine a constant instead of duplicating this literal "file1.bin" 3 times.(›§Ğ×8Ø„×Û1
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÀöª8•è‹×Û1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àƒ¸®ıÿÿÿÿ8‚Ø„×Û1
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8ÁÙ„×Û1
+L	java:S106""+Replace this use of System.out by a logger.(—±›æúÿÿÿÿ8ÁÙ„×Û1
+G	java:S106$"+Replace this use of System.out by a logger.(ÆŸ™Á8ÂÙ„×Û1
+G	java:S106&"+Replace this use of System.out by a logger.(ƒöÚ¾8ÂÙ„×Û1
+F	java:S106("+Replace this use of System.out by a logger.(ä×?8áˆ‹×Û1
+L	java:S106*"+Replace this use of System.out by a logger.(œÕÔ«ùÿÿÿÿ8¥è‹×Û1
+G	java:S106/"+Replace this use of System.out by a logger.(ˆ€ƒŒ8¦è‹×Û1
+G	java:S106;"+Replace this use of System.out by a logger.(šÁËÄ8¡òŒ×Û1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÄÙ„×Û1
+H
+java:S1068"+Remove this unused "leaders" private field.(ª¶çš8ÄÙ„×Û1

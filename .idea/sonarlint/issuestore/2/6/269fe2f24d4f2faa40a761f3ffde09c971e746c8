@@ -1,0 +1,7 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ»˜ø8Šæ»ÕÛ1
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÜñ¥üÿÿÿÿ8Ñº…ÖÛ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àƒ¸®ıÿÿÿÿ
+o	java:S116"NRename this field "GPA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¹¾ÿÿÿÿÿ8µûƒÖÛ1
+r
+java:S1201X"UEither override Object.equals(Object), or rename the method to prevent any confusion.(ÔĞÓÏ8ªš•Ú1

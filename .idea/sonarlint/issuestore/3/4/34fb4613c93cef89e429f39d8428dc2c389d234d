@@ -1,0 +1,25 @@
+
+h	java:S116"SRename this field "BASE_FEE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·•Üº
+h	java:S116"NRename this field "ADD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£›ºûÿÿÿÿ
+k	java:S116"QRename this field "DELETE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤àùÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(·•Üº
+<
+java:S1170"!Make this final field static too.(£›ºûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(¤àùÿÿÿÿ
+o
+java:S1210o"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ßÈ¿
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(¶ª—Ùûÿÿÿÿ
+T
+java:S1155/">Use isEmpty() to check whether the collection is empty or not.(şŞÕü
+O
+java:S28643"4Iterate over the "entrySet" instead of the "keySet".(¶ª—Ùûÿÿÿÿ
+@	java:S106A"+Replace this use of System.out by a logger.(÷Í¹¤
+@	java:S106E"+Replace this use of System.out by a logger.(Ì„—
+E	java:S106H"+Replace this use of System.out by a logger.(‹¡‚¥şÿÿÿÿ
+n
+java:S6201Z"XReplace this instanceof check and cast with 'instanceof PhysicalProduct physicalproduct'(—¹Ã“
+n
+java:S6201Z"XReplace this instanceof check and cast with 'instanceof PhysicalProduct physicalproduct'(—¹Ã“

@@ -1,0 +1,44 @@
+
+p
+java:S1192""UDefine a constant instead of duplicating this literal "Enter product name: " 3 times.(º½¼ÿıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ù’¦°
+E	java:S106"+Replace this use of System.out by a logger.(ú¦Éáøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(•£øşşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¦Ş¿¹øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ãü©¤ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Š«œé
+E	java:S106"+Replace this use of System.out by a logger.(Æ·â‡øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¿“†£
+E	java:S106""+Replace this use of System.out by a logger.(º½¼ÿıÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(Àó‡şÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(š‘¤ÿÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(”ÈçÛùÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(ØéÔ©
+@	java:S106/"+Replace this use of System.out by a logger.(’ƒ›à
+E	java:S1067"+Replace this use of System.out by a logger.(û’Ã¡şÿÿÿÿ
+E	java:S106;"+Replace this use of System.out by a logger.(º½¼ÿıÿÿÿÿ
+?	java:S106?"+Replace this use of System.out by a logger.(ïªõd
+?	java:S106@"+Replace this use of System.out by a logger.(ŸÍÓ
+@	java:S106A"+Replace this use of System.out by a logger.(Ãøß
+@	java:S106B"+Replace this use of System.out by a logger.(¤ü†ç
+E	java:S106C"+Replace this use of System.out by a logger.(ä•ù¦ûÿÿÿÿ
+n
+java:S6201E"XReplace this instanceof check and cast with 'instanceof PhysicalProduct physicalproduct'(—¹Ã“
+E	java:S106F"+Replace this use of System.out by a logger.(²¡ù‹üÿÿÿÿ
+<	java:S131K""Add a default case to this switch.(ÕÄªâşÿÿÿÿ
+E	java:S106M"+Replace this use of System.out by a logger.(º½¼ÿıÿÿÿÿ
+E	java:S106R"+Replace this use of System.out by a logger.(Àó‡şÿÿÿÿ
+?	java:S106W"+Replace this use of System.out by a logger.(€˜¤m
+@	java:S106\"+Replace this use of System.out by a logger.(Õ½Õİ
+E	java:S106a"+Replace this use of System.out by a logger.(¦Õè˜şÿÿÿÿ
+E	java:S106n"+Replace this use of System.out by a logger.(¡ĞÍÿÿÿÿÿ
+@	java:S106x"+Replace this use of System.out by a logger.(ó¤Ù¾
+F	java:S106€"+Replace this use of System.out by a logger.(Ç¬ğÿÿÿÿÿ
+K
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(éóó
+o
+java:S6201ƒ"XReplace this instanceof check and cast with 'instanceof PhysicalProduct physicalproduct'(—¹Ã“
+A	java:S106„"+Replace this use of System.out by a logger.(é˜›ü
+A	java:S106‹"+Replace this use of System.out by a logger.(é˜›ü
+A	java:S106¡"+Replace this use of System.out by a logger.(ñŸÖ•
+A	java:S106©"+Replace this use of System.out by a logger.(²ÓìŞ
